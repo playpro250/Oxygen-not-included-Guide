@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  background-image: url('https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg');
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+div{
+    justify-content : center;
+    display: flex;
+}
+
+h2{
+    color: white;
+}
